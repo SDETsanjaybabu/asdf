@@ -1,5 +1,10 @@
 package Patterns;
 
 public class dummt {
-//mohan
+
+
+
+
+//sanjaybabu
+	//mohan
 }
